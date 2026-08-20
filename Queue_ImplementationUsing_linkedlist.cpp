@@ -76,5 +76,5 @@ int main(){
     q.pop();
     cout<<q.getFront()<<endl;
     q.display();
-    cout<<q.isEmpty();
+    cout << q.isEmpty();
 }
